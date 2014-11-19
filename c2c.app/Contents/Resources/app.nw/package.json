@@ -2,7 +2,7 @@
   "name": "C2C",
   "main": "http://localhost:3000",
   "window": {
-      "fullscreen": false,
-      "toolbar": true
+      "fullscreen": true,
+      "toolbar": false
   }
 }
